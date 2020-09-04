@@ -1,0 +1,36 @@
+.container {
+    margin-top: 55px;
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+
+.registration-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.firstname-input {
+    width:  30%;
+}
+.lastname-input {
+    width:  30%;
+}
+.username-input {
+    width:  30%;
+}
+.email-input {
+    width:  30%;
+}
+.password-input {
+    width:  30%;
+}
+.confirm-password-input {
+    width:  30%;
+}
+
+}

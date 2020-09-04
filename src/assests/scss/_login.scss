@@ -1,0 +1,30 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+    color: $text-color;
+     
+    .username {
+        margin-bottom: 10px;
+    }
+
+    .password {
+        margin: 10px 0 10px 0;
+    }
+
+
+    .username-input {
+        width:25%;
+
+    }
+
+    .password-input {
+        width: 25%;
+    }
+
+    .submit {
+        margin: 10px;
+        width: 10%;
+    }
+}
