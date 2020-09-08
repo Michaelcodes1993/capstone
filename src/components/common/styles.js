@@ -3,7 +3,8 @@ const categoryColors = {
     'Tech News': 'rgb(0,113,164)',
     'weather': 'rgb(255,45,85)',
     'seasons': 'rgb(52,199,89)',
-    'alerts': 'rgb(175,82,250)'
+    'alerts': 'rgb(175,82,250)',
+    'tech schools': 'rgb(175,82,250)'
 }
 
 export { categoryColors } 

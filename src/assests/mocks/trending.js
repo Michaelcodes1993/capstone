@@ -25,7 +25,7 @@ export default [
     {
         title: 'The Best Schools For Coding.',
         date: moment().format('MMMM, DD, YYYY'),
-        categories: ['Tech Culture', 'Tech Schools'],
+        categories: ['Tech Culture', 'Tech News'],
         link: '#',
         image: 'fourth.jpeg'
     },
