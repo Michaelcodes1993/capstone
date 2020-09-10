@@ -28,6 +28,7 @@ function App() {
 					<Route path="/:page" component={PageRenderer} />
 					<PublicOnlyRoute path={'/login'} component={LoginPage} />
 					<PublicOnlyRoute path={'/register'} component={registration} />
+					<PublicOnlyRoute path={'/blogs/:blog_id'} component={Home} />
 					<Route component={() => 404} />
 				</Switch>
 			</div>

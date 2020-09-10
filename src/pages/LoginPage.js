@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Login from './Login'
+import Login from './login'
 import { Section } from '../Utils/Utils'
 
 export default class LoginPage extends Component {
